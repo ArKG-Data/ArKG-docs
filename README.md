@@ -1,2 +1,0 @@
-# ArKG-docs
-ArKG documentation
