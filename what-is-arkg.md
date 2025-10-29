@@ -9,12 +9,9 @@ Nuestro análisis de la literatura da cuenta de la necesidad de mejorar los est�
 Consideramos a los fechados arqueológicos como un patrimonio digital (Ministerio de las Culturas, las Artes y el Patrimonio, 2024; UNESCO, 2009), del cual somos responsables tanto de su perdurabilidad, cuidado, mantención y distribución. Por ello, ArKG se propone como una plataforma que al mismo tiempo que preserva los datos, otorgue un acceso abierto. No obstante, esta accesibilidad está implementada desde una idea de consulta amplia, fuertemente influenciados por los principios FAIR (Wilkinson et al., 2016), donde se propone que los datos sean Findable (Ubicables), Accessible (Accesibles),  Interoperable (Interoperables), and Reusable (Reusable) por toda la comunidad.
 
 Website:
-
-\-          arkg.ing.uc.cl
-
-\-          arkg.cl
-
-\-          Github: https://github.com/ArKG-Data
+* arkg.ing.uc.cl
+* arkg.cl
+* Github: https://github.com/ArKG-Data
 
 Participantes
 
