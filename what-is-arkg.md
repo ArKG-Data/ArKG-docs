@@ -1,4 +1,4 @@
-Archaeologycal Knoledge Graph (ArKG) Chile es un Proyecto interdisciplinario entre Arqueología, Física y Computación que busca organizar, sistematizar, visibilizar y distribuir abiertamente fechados arqueológicos de Chile.
+### Archaeologycal Knoledge Graph (ArKG) Chile es un Proyecto interdisciplinario entre Arqueología, Física y Computación que busca organizar, sistematizar, visibilizar y distribuir abiertamente fechados arqueológicos de Chile.
 
 ArKG se establece reconociendo la fundamental importancia de los fechados y los métodos de datación en arqueología, tanto en Chile como en el mundo. Esta información, más allá del campo de aplicación arqueológico, tiene un origen como método en las ciencias físicas, y el estudio de los datos permite tanto comprender el pasado de la humanidad a largas escalas, en arqueología, como también el pasado cercano de la física. Además, la forma en que se trabaja y adquieren los datos se encuentra fuertemente determinado por los métodos digitales de la computación, ya sea a nivel del instrumental como de la organización de los datos y su distribución. Por ello, se plantea la necesidad de realizar una investigación inter y transdiciplinaria advocados a la comprensión multimodal y multi foco de los fechados.
 
@@ -8,40 +8,40 @@ Nuestro análisis de la literatura da cuenta de la necesidad de mejorar los est�
 
 Consideramos a los fechados arqueológicos como un patrimonio digital (Ministerio de las Culturas, las Artes y el Patrimonio, 2024; UNESCO, 2009), del cual somos responsables tanto de su perdurabilidad, cuidado, mantención y distribución. Por ello, ArKG se propone como una plataforma que al mismo tiempo que preserva los datos, otorgue un acceso abierto. No obstante, esta accesibilidad está implementada desde una idea de consulta amplia, fuertemente influenciados por los principios FAIR (Wilkinson et al., 2016), donde se propone que los datos sean Findable (Ubicables), Accessible (Accesibles),  Interoperable (Interoperables), and Reusable (Reusable) por toda la comunidad.
 
-Website:
+#### Website:
 * arkg.ing.uc.cl
 * arkg.cl
 * Github: https://github.com/ArKG-Data
 
-Participantes
+#### Participantes
 
-\-          Roberto Campbell, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Roberto Campbell, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-\-          Paola Caprile, PhD. Instituto de Física, Pontificia Universidad Católica de Chile.
+* Paola Caprile, PhD. Instituto de Física, Pontificia Universidad Católica de Chile.
 
-\-          Cristián Riveros, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* Cristián Riveros, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
-\-          Marcelo Arenas, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* Marcelo Arenas, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
-\-          Francisca Santana, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Francisca Santana, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-\-          Francisca Moya, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Francisca Moya, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-\-          Víctor Méndez, Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Víctor Méndez, Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-\-          Andrés Kutulas
+* Andrés Kutulas
 
-\-          Matías Bravo
+* Matías Bravo
 
-\-          Matías Leiva
+* Matías Leiva
 
-\-          José Mendoza
+* José Mendoza
 
-\-          Manuel Cifuentes
+* Manuel Cifuentes
 
-\-          Matías Maldonado
+* Matías Maldonado
 
-Referencias
+#### Referencias
 
 Ministerio de las Culturas, las Artes y el Patrimonio. (2024). _Estrategia Nacional de Patrimonios Digitales 2024-2029_. https://www.cultura.gob.cl/wp-content/uploads/2024/04/informe-enpd.pdf
 
