@@ -1,0 +1,2717 @@
+@prefix : <https://arkg.cl/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix wdt: <http://www.wikidata.org/prop/direct/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:BETA4514 a :Fechado ;
+		 rdfs:label "BETA 4514" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Punta Teatinos" ;
+		   :x -71.2885115439667;
+		   :y -29.8177829804269;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3000 .
+:BETA4514 :sd 70 .
+
+
+:BETA4515 a :Fechado ;
+		 rdfs:label "BETA 4515" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Punta Teatinos" ;
+		   :x -71.2885115439667;
+		   :y -29.8177829804269;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3320 .
+:BETA4515 :sd 70 .
+
+
+:I10688 a :Fechado ;
+		 rdfs:label "I 10688" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Teatinos" ;
+		   :x -71.2885115439667;
+		   :y -29.8177829804269;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4000 .
+:I10688 :sd 96 .
+
+
+:I11097 a :Fechado ;
+		 rdfs:label "I 11097" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Teatinos" ;
+		   :x -71.2885115439667;
+		   :y -29.8177829804269;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4560 .
+:I11097 :sd 95 .
+
+
+:I10698 a :Fechado ;
+		 rdfs:label "I 10698" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Teatinos" ;
+		   :x -71.2885115439667;
+		   :y -29.8177829804269;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4905 .
+:I10698 :sd 100 .
+
+
+:UGAMS5866 a :Fechado ;
+		 rdfs:label "UGAMS 5866" ;
+		   wdt:P186 :Tooth ;
+		 wdt:P9047 "Museo del Desierto" ;
+		   :x -71.2781722222222;
+		   :y -29.9535361111111;
+		   wdt:P1343 "Fuentes et al. 2010" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3010 .
+:UGAMS5866 :sd 25 .
+
+
+:BETA249616 a :Fechado ;
+		 rdfs:label "BETA 249616" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Museo del Desierto" ;
+		   :x -71.2781722222222;
+		   :y -29.9535361111111;
+		   wdt:P1343 "Fuentes et al. 2010" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3070 .
+:BETA249616 :sd 50 .
+
+
+:BETA3780 a :Fechado ;
+		 rdfs:label "BETA 3780" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Cerrito" ;
+		   wdt:P1343 "Kuzmanic and Castillo 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3780 .
+:BETA3780 :sd 550 .
+
+
+:UGAMS5863 a :Fechado ;
+		 rdfs:label "UGAMS 5863" ;
+		   wdt:P186 :Tooth ;
+		 wdt:P9047 "Cementerio Tierra Negra" ;
+		   :x -71.4006790264311;
+		   :y -30.1950234360272;
+		   wdt:P1343 "Fuentes et al. 2010" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4090 .
+:UGAMS5863 :sd 25 .
+
+
+:IVIC331 a :Fechado ;
+		 rdfs:label "IVIC 331" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Guanaqueros" ;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3330 .
+:IVIC331 :sd 110 .
+
+
+:IVIC342 a :Fechado ;
+		 rdfs:label "IVIC 342" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Guanaqueros" ;
+		   wdt:P1343 "Schiappacasse and Niemeyer 1986" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3760 .
+:IVIC342 :sd 110 .
+
+
+:IVIC729 a :Fechado ;
+		 rdfs:label "IVIC 729" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "San Pedro Viejo de Pichasca" ;
+		   :x -70.8854880250605;
+		   :y -30.3915191192145;
+		   wdt:P1343 "Ampuero and Rivera 1971" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4700 .
+:IVIC729 :sd 80 .
+
+
+:IVIC727 a :Fechado ;
+		 rdfs:label "IVIC 727" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "San Pedro Viejo de Pichasca" ;
+		   :x -70.8854880250605;
+		   :y -30.3915191192145;
+		   wdt:P1343 "Ampuero and Rivera 1971" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7050 .
+:IVIC727 :sd 80 .
+
+
+:UGAMS9353 a :Fechado ;
+		 rdfs:label "UGAMS 9353" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Valle El Encanto" ;
+		   wdt:P1343 "Troncoso 2013" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3680 .
+:UGAMS9353 :sd 25 .
+:UGAMS9353 :delta13C -19.9 .
+
+
+:Unknown_Lab_Code_1 a :Fechado ;
+		 rdfs:label "No data" ;
+		   wdt:P186 :No_data ;
+		 wdt:P9047 "El Teniente" ;
+		   wdt:P1343 "Wiesner et al. 2000" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 7960 .
+
+
+:BETA246500 a :Fechado ;
+		 rdfs:label "BETA 246500" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Techo Negro CBL 020" ;
+		   wdt:P1343 "Mendez et al. 2009" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5350 .
+:BETA246500 :sd 40 .
+:BETA246500 :delta13C -22.1 .
+
+
+:UGAMS5343 a :Fechado ;
+		 rdfs:label "UGAMS 5343" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Techo Negro CBL 020" ;
+		   wdt:P1343 "This paper" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6870 .
+:UGAMS5343 :sd 30 .
+:UGAMS5343 :delta13C -24.2 .
+
+
+:UGAMS7732 a :Fechado ;
+		 rdfs:label "UGAMS 7732" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Alero Paulino González" ;
+		   :x -70.836575;
+		   :y -31.5459333333333;
+		   wdt:P1343 "Troncoso 2011" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4150 .
+:UGAMS7732 :sd 30 .
+
+
+:UGAMS7733 a :Fechado ;
+		 rdfs:label "UGAMS 7733" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Alero Paulino González" ;
+		   :x -70.836575;
+		   :y -31.5459333333333;
+		   wdt:P1343 "Troncoso 2011" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5990 .
+:UGAMS7733 :sd 30 .
+
+
+:BETA202253 a :Fechado ;
+		 rdfs:label "BETA 202253" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "LV 220" ;
+		   :x -71.4892055555556;
+		   :y -31.8374583333333;
+		   wdt:P1343 "Jackson et al. 2007" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4200 .
+:BETA202253 :sd 40 .
+:BETA202253 :delta13C -18.8 .
+
+
+:BETA79614 a :Fechado ;
+		 rdfs:label "BETA 79614" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Agua Amarilla LV 099" ;
+		   :x -71.4782111111111;
+		   :y -31.8579055555556;
+		   wdt:P1343 "Seguel et al. 1995" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5480 .
+:BETA79614 :sd 70 .
+
+
+:BETA158700 a :Fechado ;
+		 rdfs:label "BETA 158700" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Agua Amarilla LV 164" ;
+		   wdt:P1343 "Jackson 2001" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5420 .
+:BETA158700 :sd 80 .
+
+
+:UCTL980 a :Fechado ;
+		 rdfs:label "UCTL 980" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 6480 .
+:UCTL980 :sd 325 .
+
+
+:UCTL749 a :Fechado ;
+		 rdfs:label "UCTL 749" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 6500 .
+:UCTL749 :sd 500 .
+
+
+:UCTL978 a :Fechado ;
+		 rdfs:label "UCTL 978" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 6600 .
+:UCTL978 :sd 300 .
+
+
+:BETA70246 a :Fechado ;
+		 rdfs:label "BETA 70246" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6670 .
+:BETA70246 :sd 60 .
+
+
+:BETA83155 a :Fechado ;
+		 rdfs:label "BETA 83155" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6700 .
+:BETA83155 :sd 60 .
+
+
+:UCTL979 a :Fechado ;
+		 rdfs:label "UCTL 979" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 6775 .
+:UCTL979 :sd 500 .
+
+
+:UCTL808 a :Fechado ;
+		 rdfs:label "UCTL 808" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "Agua Amarilla LV 166" ;
+		   wdt:P1343 "Román and Jackson 1998" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 6800 .
+:UCTL808 :sd 500 .
+
+
+:BETA135321 a :Fechado ;
+		 rdfs:label "BETA 135321" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Penitente LV 014" ;
+		   wdt:P1343 "Méndez 2002" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8620 .
+:BETA135321 :sd 70 .
+
+
+:BETA137025 a :Fechado ;
+		 rdfs:label "BETA 137025" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cabo Tablas-Ñague LV 204" ;
+		   wdt:P1343 "Artigas 2003" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3160 .
+:BETA137025 :sd 50 .
+
+
+:BETA143140 a :Fechado ;
+		 rdfs:label "BETA 143140" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Paso Inferior Conchali LV 034" ;
+		   wdt:P1343 "Barrera and Belmar 2000" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3280 .
+:BETA143140 :sd 50 .
+
+
+:BETA95076 a :Fechado ;
+		 rdfs:label "BETA 95076" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046A" ;
+		   wdt:P1343 "Jackson et al. 2004" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5010 .
+:BETA95076 :sd 80 .
+
+
+:BETA95077 a :Fechado ;
+		 rdfs:label "BETA 95077" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046A" ;
+		   wdt:P1343 "Jackson et al. 2004" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6710 .
+:BETA95077 :sd 60 .
+
+
+:BETA121449 a :Fechado ;
+		 rdfs:label "BETA 121449" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson and Méndez 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3390 .
+:BETA121449 :sd 70 .
+
+
+:BETA121450 a :Fechado ;
+		 rdfs:label "BETA 121450" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson and Méndez 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3960 .
+:BETA121450 :sd 70 .
+
+
+:BETA121451 a :Fechado ;
+		 rdfs:label "BETA 121451" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson and Méndez 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5270 .
+:BETA121451 :sd 70 .
+
+
+:BETA121452 a :Fechado ;
+		 rdfs:label "BETA 121452" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson and Méndez 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5480 .
+:BETA121452 :sd 70 .
+
+
+:BETA121453 a :Fechado ;
+		 rdfs:label "BETA 121453" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson and Méndez 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5700 .
+:BETA121453 :sd 80 .
+
+
+:BETA279039 a :Fechado ;
+		 rdfs:label "BETA 279039" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Chungo LV 046B" ;
+		   wdt:P1343 "Jackson 2013" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8520 .
+:BETA279039 :sd 50 .
+
+
+:BETA51405 a :Fechado ;
+		 rdfs:label "BETA 51405" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Los Cerrillos LV 077" ;
+		   wdt:P1343 "Jackson and Ampuero 1993" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5820 .
+:BETA51405 :sd 60 .
+
+
+:BETA251900 a :Fechado ;
+		 rdfs:label "BETA 251900" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4330 .
+:BETA251900 :sd 40 .
+:BETA251900 :delta13C -23.2 .
+
+
+:UGAMS04600 a :Fechado ;
+		 rdfs:label "UGAMS 04600" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4680 .
+:UGAMS04600 :sd 25 .
+:UGAMS04600 :delta13C -11.0 .
+
+
+:BETA254447 a :Fechado ;
+		 rdfs:label "BETA 254447" ;
+		   wdt:P186 :Tooth ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4720 .
+:BETA254447 :sd 40 .
+:BETA254447 :delta13C -13.2 .
+
+
+:BETA261646 a :Fechado ;
+		 rdfs:label "BETA 261646" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4940 .
+:BETA261646 :sd 40 .
+:BETA261646 :delta13C -16.8 .
+
+
+:BETA261645 a :Fechado ;
+		 rdfs:label "BETA 261645" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6040 .
+:BETA261645 :sd 40 .
+:BETA261645 :delta13C -13.3 .
+
+
+:BETA94042 a :Fechado ;
+		 rdfs:label "BETA 94042" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6440 .
+:BETA94042 :sd 80 .
+:BETA94042 :delta13C 0.3 .
+
+
+:BETA251902 a :Fechado ;
+		 rdfs:label "BETA 251902" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Los Rieles LV 036" ;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8680 .
+:BETA251902 :sd 50 .
+:BETA251902 :delta13C -17.7 .
+
+
+:OS68032 a :Fechado ;
+		 rdfs:label "OS68032" ;
+		   wdt:P186 :Sediment ;
+		 wdt:P9047 "Quereo Perfil" ;
+		   :x -71.5095305555556;
+		   :y -31.9296527777778;
+		   wdt:P1343 "Jackson et al. 2009" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8280 .
+:OS68032 :sd 50 .
+
+
+:UCTL1627_1 a :Fechado ;
+		 rdfs:label "UCTL 1627" ;
+		   wdt:P186 :Heated_rock ;
+		 wdt:P9047 "La Cachina LV 114" ;
+		   :x -71.5059805555556;
+		   :y -31.9481611111111;
+		   wdt:P1343 "Méndez et al. 2004" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q2727388 ;
+		 :14C_age 4020 .
+:UCTL1627_1 :sd 230 .
+
+
+:BETA159368 a :Fechado ;
+		 rdfs:label "BETA 159368" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Surprise LV 207" ;
+		   wdt:P1343 "Jackson 2001" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7930 .
+:BETA159368 :sd 90 .
+
+
+:BETA181729 a :Fechado ;
+		 rdfs:label "BETA 181729" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Quebrada Lazareto LV 089" ;
+		   wdt:P1343 "Jackson et al. 2005" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8370 .
+:BETA181729 :sd 50 .
+:BETA181729 :delta13C 0.6 .
+
+
+:UGAMS10989 a :Fechado ;
+		 rdfs:label "UGAMS 10989" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Mauro MAU 033" ;
+		   wdt:P1343 "Pavlovic 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3760 .
+:UGAMS10989 :sd 25 .
+:UGAMS10989 :delta13C -21.4 .
+
+
+:UGAMS10997 a :Fechado ;
+		 rdfs:label "UGAMS 10997" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Mauro MAU 033" ;
+		   wdt:P1343 "Pavlovic 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 5440 .
+:UGAMS10997 :sd 30 .
+:UGAMS10997 :delta13C -19.4 .
+
+
+:UGAMS10998 a :Fechado ;
+		 rdfs:label "UGAMS 10998" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Mauro MAU 033" ;
+		   wdt:P1343 "Pavlovic 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 7490 .
+:UGAMS10998 :sd 30 .
+:UGAMS10998 :delta13C -18.7 .
+
+
+:UGAMS11004 a :Fechado ;
+		 rdfs:label "UGAMS 11004" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Mauro MAU 085" ;
+		   wdt:P1343 "Pavlovic 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3030 .
+:UGAMS11004 :sd 25 .
+:UGAMS11004 :delta13C -19.3 .
+
+
+:UGAMS9937 a :Fechado ;
+		 rdfs:label "UGAMS 9937" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Mauro MAU 085" ;
+		   wdt:P1343 "Pavlovic 2012" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3040 .
+:UGAMS9937 :sd 25 .
+
+
+:BETA70400 a :Fechado ;
+		 rdfs:label "BETA 70400" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "El Chivato 110" ;
+		   wdt:P1343 "Ávalos et al. 1995" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7780 .
+:BETA70400 :sd 70 .
+
+
+:BETA70399 a :Fechado ;
+		 rdfs:label "BETA 70399" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "El Chivato 110" ;
+		   wdt:P1343 "Ávalos et al. 1995" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7920 .
+:BETA70399 :sd 60 .
+
+
+:UGAMS7818 a :Fechado ;
+		 rdfs:label "UGAMS 7818" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Valiente CT 14" ;
+		   wdt:P1343 "Jackson 2013" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5110 .
+:UGAMS7818 :sd 30 .
+:UGAMS7818 :delta13C -17.7 .
+
+
+:GX21914 a :Fechado ;
+		 rdfs:label "GX 21914" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5915 .
+:GX21914 :sd 185 .
+
+
+:GX21915 a :Fechado ;
+		 rdfs:label "GX 21915" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6035 .
+:GX21915 :sd 65 .
+
+
+:GX21916 a :Fechado ;
+		 rdfs:label "GX 21916" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6240 .
+:GX21916 :sd 180 .
+
+
+:GX21917 a :Fechado ;
+		 rdfs:label "GX 21917" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7100 .
+:GX21917 :sd 105 .
+
+
+:GX21918 a :Fechado ;
+		 rdfs:label "GX 21918" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8510 .
+:GX21918 :sd 120 .
+
+
+:GX21922 a :Fechado ;
+		 rdfs:label "GX 21922" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Piuquenes" ;
+		   :x -70.2548055555555;
+		   :y -32.9793472222222;
+		   wdt:P1343 "Stehberg et al. 2012" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8910 .
+:GX21922 :sd 70 .
+
+
+:CAMS144812 a :Fechado ;
+		 rdfs:label "CAMS 144812" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Pichidangui LV 531" ;
+		   wdt:P1343 "Ballester et al. 2011" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 7780 .
+:CAMS144812 :sd 25 .
+
+
+:CAMS144818 a :Fechado ;
+		 rdfs:label "CAMS 144818" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Pichidangui LV 531" ;
+		   wdt:P1343 "Ballester et al. 2011" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 7880 .
+:CAMS144818 :sd 25 .
+
+
+:CAMS144653 a :Fechado ;
+		 rdfs:label "CAMS 144653" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Pichidangui LV 531" ;
+		   wdt:P1343 "Ballester et al. 2011" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8125 .
+:CAMS144653 :sd 30 .
+
+
+:BETA128761 a :Fechado ;
+		 rdfs:label "BETA 128761" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "S Bato 1" ;
+		   wdt:P1343 "Seelenfreud and Westfall 2000" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6660 .
+:BETA128761 :sd 60 .
+
+
+:I15266 a :Fechado ;
+		 rdfs:label "I 15266" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Curaumilla 1" ;
+		   wdt:P1343 "Ramírez et al. 1991" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4960 .
+:I15266 :sd 110 .
+
+
+:BETA25585 a :Fechado ;
+		 rdfs:label "BETA 25585" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Curaumilla 1" ;
+		   wdt:P1343 "Ramírez et al. 1991" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5180 .
+:BETA25585 :sd 80 .
+
+
+:BETA22886 a :Fechado ;
+		 rdfs:label "BETA 22886" ;
+		   wdt:P186 :Shell ;
+		 wdt:P9047 "Punta Curaumilla 1" ;
+		   wdt:P1343 "Ramírez et al. 1991" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8790 .
+:BETA22886 :sd 110 .
+
+
+:BETA18530 a :Fechado ;
+		 rdfs:label "BETA 18530" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "LEP-C" ;
+		   wdt:P1343 "Falabella and Planella 1991" ;
+		 :location "Valparaíso, Chile" ;
+		   wdt:P276 wd:Q219458 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3540 .
+:BETA18530 :sd 160 .
+
+
+:BETA25725 a :Fechado ;
+		 rdfs:label "BETA 25725" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Manzano 1" ;
+		   :x -70.3961830543497;
+		   :y -33.5481513419123;
+		   wdt:P1343 "Simonetti and Cornejo 1991" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5030 .
+:BETA25725 :sd 80 .
+
+
+:BETA106974 a :Fechado ;
+		 rdfs:label "BETA 106974" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Manzano 1" ;
+		   :x -70.3961830543497;
+		   :y -33.5481513419123;
+		   wdt:P1343 "Cornejo et al. 2005" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6830 .
+:BETA106974 :sd 60 .
+
+
+:BETA40065 a :Fechado ;
+		 rdfs:label "BETA 40065" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Manzano 1" ;
+		   :x -70.3961830543497;
+		   :y -33.5481513419123;
+		   wdt:P1343 "Saavedra and Cornejo 1995" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8900 .
+:BETA40065 :sd 120 .
+
+
+:BETA70119 a :Fechado ;
+		 rdfs:label "BETA 70119" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Manzano 3" ;
+		   wdt:P1343 "Saavedra and Cornejo 1995" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7080 .
+:BETA70119 :sd 110 .
+
+
+:BETA49600 a :Fechado ;
+		 rdfs:label "BETA 49600" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Manzano 3" ;
+		   wdt:P1343 "Saavedra and Cornejo 1995" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8540 .
+:BETA49600 :sd 120 .
+
+
+:BETA32627 a :Fechado ;
+		 rdfs:label "BETA 32627" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "La Batea 1" ;
+		   wdt:P1343 "Cornejo and Sanhueza 2003" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4240 .
+:BETA32627 :sd 70 .
+:BETA32627 :delta13C -25 .
+
+
+:BETA26375 a :Fechado ;
+		 rdfs:label "BETA 26375" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "La Batea 1" ;
+		   wdt:P1343 "Simonetti and Saavedra 1994" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4460 .
+:BETA26375 :sd 180 .
+:BETA26375 :delta13C -25 .
+
+
+:BETA27504 a :Fechado ;
+		 rdfs:label "BETA 27504" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "La Paloma" ;
+		   :x -70.3480027777778;
+		   :y -33.6076166666667;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3020 .
+:BETA27504 :sd 50 .
+:BETA27504 :delta13C -25 .
+
+
+:BETA136136 a :Fechado ;
+		 rdfs:label "BETA 136136" ;
+		   wdt:P186 :Charred_seeds ;
+		 wdt:P9047 "Condominio 1" ;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3150 .
+:BETA136136 :sd 60 .
+:BETA136136 :delta13C -25 .
+
+
+:BETA128512_1 a :Fechado ;
+		 rdfs:label "BETA 128512" ;
+		   wdt:P186 :Charred_seeds ;
+		 wdt:P9047 "Las Cortaderas 2" ;
+		   :x -70.3202083333333;
+		   :y -33.6460333333333;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3970 .
+:BETA128512_1 :sd 50 .
+:BETA128512_1 :delta13C -25 .
+
+
+:BETA128512_2 a :Fechado ;
+		 rdfs:label "BETA 128512" ;
+		   wdt:P186 :Charred_seeds ;
+		 wdt:P9047 "Las Cortaderas 3" ;
+		   :x -70.3227722222222;
+		   :y -33.6474277777778;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3920 .
+:BETA128512_2 :sd 80 .
+:BETA128512_2 :delta13C -25 .
+
+
+:BETA127529 a :Fechado ;
+		 rdfs:label "BETA 127529" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Las Morrenas I" ;
+		   wdt:P1343 "Cornejo and Sanhueza 2003" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3100 .
+:BETA127529 :sd 50 .
+:BETA127529 :delta13C -25 .
+
+
+:BETA127528 a :Fechado ;
+		 rdfs:label "BETA 127528" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Las Morrenas I" ;
+		   wdt:P1343 "Cornejo and Sanhueza 2003" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3320 .
+:BETA127528 :sd 50 .
+:BETA127528 :delta13C -23.6 .
+
+
+:BETA112520 a :Fechado ;
+		 rdfs:label "BETA 112520" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Queltehues" ;
+		   wdt:P1343 "Saavedra and Vera 1998" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5950 .
+:BETA112520 :sd 60 .
+
+
+:BETA112521 a :Fechado ;
+		 rdfs:label "BETA 112521" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Queltehues" ;
+		   wdt:P1343 "Saavedra and Vera 1999" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6200 .
+:BETA112521 :sd 50 .
+
+
+:BETA245600_1 a :Fechado ;
+		 rdfs:label "BETA 245600" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Las Perdidas" ;
+		   :x -69.8700694444444;
+		   :y -34.2292305555556;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3620 .
+:BETA245600_1 :sd 40 .
+:BETA245600_1 :delta13C -22.7 .
+
+
+:Unknown_Lab_Code_2 a :Fechado ;
+		 rdfs:label "Beta s/n" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Santa Inés" ;
+		   :x -71.1530472222222;
+		   :y -34.4744055555556;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3720 .
+:Unknown_Lab_Code_2 :sd 100 .
+
+
+:Beta289393 a :Fechado ;
+		 rdfs:label "Beta 289393" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Santa Inés" ;
+		   :x -71.1530472222222;
+		   :y -34.4744055555556;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4570 .
+:Beta289393 :sd 40 .
+:Beta289393 :delta13C -19.6 .
+
+
+:Beta289394 a :Fechado ;
+		 rdfs:label "Beta 289394" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Santa Inés" ;
+		   :x -71.1530472222222;
+		   :y -34.4744055555556;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4820 .
+:Beta289394 :sd 40 .
+:Beta289394 :delta13C -19 .
+
+
+:Beta289396 a :Fechado ;
+		 rdfs:label "Beta 289396" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Santa Inés" ;
+		   :x -71.1530472222222;
+		   :y -34.4744055555556;
+		   wdt:P1343 "Jackson et al. 2012" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 5170 .
+:Beta289396 :sd 40 .
+:Beta289396 :delta13C -25.6 .
+
+
+:I4965 a :Fechado ;
+		 rdfs:label "I 4965" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Taguatagua 2" ;
+		   :x -71.1664111111111;
+		   :y -34.4690444444444;
+		   wdt:P1343 "Núñez 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5055 .
+:I4965 :sd 105 .
+
+
+:I4964 a :Fechado ;
+		 rdfs:label "I 4964" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Taguatagua 2" ;
+		   :x -71.1664111111111;
+		   :y -34.4690444444444;
+		   wdt:P1343 "Núñez 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5550 .
+:I4964 :sd 230 .
+
+
+:I3987 a :Fechado ;
+		 rdfs:label "I 3987" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Taguatagua 2" ;
+		   :x -71.1664111111111;
+		   :y -34.4690444444444;
+		   wdt:P1343 "Montané 1969" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6130 .
+:I3987 :sd 115 .
+
+
+:BETA1454 a :Fechado ;
+		 rdfs:label "BETA 1454" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6105 .
+:BETA1454 :sd 115 .
+
+
+:BETA3473 a :Fechado ;
+		 rdfs:label "BETA 3473" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7060 .
+:BETA3473 :sd 140 .
+
+
+:BETA3904 a :Fechado ;
+		 rdfs:label "BETA 3904" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7160 .
+:BETA3904 :sd 80 .
+
+
+:BETA3905 a :Fechado ;
+		 rdfs:label "BETA 3905" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7370 .
+:BETA3905 :sd 100 .
+
+
+:BETA3471 a :Fechado ;
+		 rdfs:label "BETA 3471" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7610 .
+:BETA3471 :sd 80 .
+
+
+:BETA1453 a :Fechado ;
+		 rdfs:label "BETA 1453" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cuchipuy" ;
+		   :x -71.1193861111111;
+		   :y -34.4857222222222;
+		   wdt:P1343 "Kaltwasser et al. 1983" ;
+		 :location "O´Higgins, Chile" ;
+		   wdt:P276 wd:Q2133 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8070 .
+:BETA1453 :sd 100 .
+
+
+:BETA227740 a :Fechado ;
+		 rdfs:label "BETA 227740" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Holoceno" ;
+		   :x -70.0689722222222;
+		   :y -34.0984222222222;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4110 .
+:BETA227740 :sd 70 .
+:BETA227740 :delta13C -22.4 .
+
+
+:BETA227741 a :Fechado ;
+		 rdfs:label "BETA 227741" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Holoceno" ;
+		   :x -70.0689722222222;
+		   :y -34.0984222222222;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4350 .
+:BETA227741 :sd 40 .
+:BETA227741 :delta13C -22.4 .
+
+
+:BETA227742 a :Fechado ;
+		 rdfs:label "BETA 227742" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Holoceno" ;
+		   :x -70.0689722222222;
+		   :y -34.0984222222222;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4440 .
+:BETA227742 :sd 40 .
+:BETA227742 :delta13C -21.9 .
+
+
+:BETA218335 a :Fechado ;
+		 rdfs:label "BETA 218335" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Holoceno" ;
+		   :x -70.0689722222222;
+		   :y -34.0984222222222;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4710 .
+:BETA218335 :sd 50 .
+:BETA218335 :delta13C -21.9 .
+
+
+:BETA245600_2 a :Fechado ;
+		 rdfs:label "BETA 245600" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Plomo" ;
+		   wdt:P1343 "Cornejo and Sanhueza 2011" ;
+		 :location "Metropolitana, Chile" ;
+		   wdt:P276 wd:Q2131 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 3170 .
+:BETA245600_2 :sd 40 .
+:BETA245600_2 :delta13C -21.2 .
+
+
+:UGAMS5864 a :Fechado ;
+		 rdfs:label "UGAMS 5864" ;
+		   wdt:P186 :Tooth ;
+		 wdt:P9047 "La Cancha" ;
+		   wdt:P1343 "Fuentes et al. 2010" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4490 .
+:UGAMS5864 :sd 25 .
+
+
+:UGAMS10061 a :Fechado ;
+		 rdfs:label "UGAMS 10061" ;
+		   wdt:P186 :Pigment_organic_material ;
+		 wdt:P9047 "Quebrada Minillas" ;
+		   wdt:P1343 "Jackson 2013" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4540 .
+:UGAMS10061 :sd 25 .
+:UGAMS10061 :delta13C -20.9 .
+
+
+:UGAMS9352 a :Fechado ;
+		 rdfs:label "UGAMS 9352" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Tamaya 1" ;
+		   wdt:P1343 "Troncoso 2013" ;
+		 :location "Coquimbo, Chile" ;
+		   wdt:P276 wd:Q2121 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3200 .
+:UGAMS9352 :sd 25 .
+:UGAMS9352 :delta13C -17 .
+
+
+:LP1847 a :Fechado ;
+		 rdfs:label "LP 1847" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3720 .
+:LP1847 :sd 60 .
+
+
+:LP1973 a :Fechado ;
+		 rdfs:label "LP 1973" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4310 .
+:LP1973 :sd 90 .
+
+
+:LP1972 a :Fechado ;
+		 rdfs:label "LP 1972" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4510 .
+:LP1972 :sd 100 .
+
+
+:LP1854 a :Fechado ;
+		 rdfs:label "LP-1854  " ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4870 .
+:LP1854 :sd 80 .
+
+
+:LP1840 a :Fechado ;
+		 rdfs:label "LP 1840" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5120 .
+:LP1840 :sd 60 .
+
+
+:LP1976 a :Fechado ;
+		 rdfs:label "LP  1976" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6690 .
+:LP1976 :sd 90 .
+
+
+:AA81731 a :Fechado ;
+		 rdfs:label "AA 81731" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6940 .
+:AA81731 :sd 110 .
+:AA81731 :delta13C -25.3 .
+
+
+:LP1857 a :Fechado ;
+		 rdfs:label "LP 1857" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7300 .
+:LP1857 :sd 90 .
+
+
+:LP1977 a :Fechado ;
+		 rdfs:label "LP 1977" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8070 .
+:LP1977 :sd 140 .
+
+
+:AA81732 a :Fechado ;
+		 rdfs:label "AA 81732" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8252 .
+:AA81732 :sd 51 .
+
+
+:LP1859 a :Fechado ;
+		 rdfs:label "LP 1859" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8400 .
+:LP1859 :sd 90 .
+
+
+:LP1860 a :Fechado ;
+		 rdfs:label "LP 1860" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8440 .
+:LP1860 :sd 100 .
+
+
+:LP1815 a :Fechado ;
+		 rdfs:label "LP 1815" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "ARQ 18" ;
+		   wdt:P1343 "Cortegoso et al. 2012" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8950 .
+:LP1815 :sd 100 .
+
+
+:CSIC462 a :Fechado ;
+		 rdfs:label "CSIC 462" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Peñoncito" ;
+		   wdt:P1343 "Berberian and Calandra 1984" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4020 .
+:CSIC462 :sd 50 .
+
+
+:CSIC463 a :Fechado ;
+		 rdfs:label "CSIC 463" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Peñoncito" ;
+		   wdt:P1343 "Berberian and Calandra 1984" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7080 .
+:CSIC463 :sd 60 .
+
+
+:CSIC464 a :Fechado ;
+		 rdfs:label "CSIC 464" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Peñoncito" ;
+		   wdt:P1343 "Berberian and Calandra 1984" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7470 .
+:CSIC464 :sd 60 .
+
+
+:LP2199 a :Fechado ;
+		 rdfs:label "LP 2199" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gualcamayo" ;
+		   :x -68.598375;
+		   :y -29.7220055555556;
+		   wdt:P1343 "Durán et al. 2013" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6240 .
+:LP2199 :sd 90 .
+
+
+:Gak6903 a :Fechado ;
+		 rdfs:label "Gak 6903" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 1" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1977" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3710 .
+:Gak6903 :sd 110 .
+
+
+:Gak4704 a :Fechado ;
+		 rdfs:label "Gak 4704" ;
+		   wdt:P186 :Human_sinew ;
+		 wdt:P9047 "Los Morrillos Gruta 1" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4070 .
+:Gak4704 :sd 105 .
+
+
+:Gx1631 a :Fechado ;
+		 rdfs:label "Gx 1631" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 1" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4410 .
+:Gx1631 :sd 150 .
+
+
+:GaK6906 a :Fechado ;
+		 rdfs:label "GaK 6906" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 1" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4530 .
+:GaK6906 :sd 110 .
+
+
+:Gak8824 a :Fechado ;
+		 rdfs:label "Gak 8824" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 1" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5460 .
+:Gak8824 :sd 140 .
+
+
+:Gak6904 a :Fechado ;
+		 rdfs:label "Gak 6904" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 2" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6480 .
+:Gak6904 :sd 130 .
+
+
+:Gak6905 a :Fechado ;
+		 rdfs:label "Gak 6905" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Morrillos Gruta 2" ;
+		   :x -69.7;
+		   :y -31.7166666666667;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7920 .
+:Gak6905 :sd 120 .
+
+
+:Gak5557 a :Fechado ;
+		 rdfs:label "Gak 5557" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Río Salado" ;
+		   wdt:P1343 "Gambier 1977" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3390 .
+:Gak5557 :sd 100 .
+
+
+:Gak5806 a :Fechado ;
+		 rdfs:label "Gak 5806" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Grauta del Chacaycito" ;
+		   wdt:P1343 "Gambier 1985" ;
+		 :location "San Juan, Argentina" ;
+		   wdt:P276 wd:Q44805 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5060 .
+:Gak5806 :sd 170 .
+
+
+:GIF4492 a :Fechado ;
+		 rdfs:label "GIF 4492" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo el Tigre Alero 2" ;
+		   wdt:P1343 "Bárcena 1977–1978" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4170 .
+:GIF4492 :sd 110 .
+
+
+:GaK9958 a :Fechado ;
+		 rdfs:label "GaK 9958" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Jaguel III" ;
+		   :x -69.1833333333333;
+		   :y -32.4166666666667;
+		   wdt:P1343 "Bárcena 1977–1978" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3550 .
+:GaK9958 :sd 100 .
+
+
+:AC0412 a :Fechado ;
+		 rdfs:label "AC 0412" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Jaguel III" ;
+		   :x -69.1833333333333;
+		   :y -32.4166666666667;
+		   wdt:P1343 "Bárcena 1977–1978" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4200 .
+:AC0412 :sd 180 .
+
+
+:GaK10733 a :Fechado ;
+		 rdfs:label "GaK 10733" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Tinaja I" ;
+		   wdt:P1343 "Bárcena et al. 1985" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4510 .
+:GaK10733 :sd 130 .
+
+
+:LP324 a :Fechado ;
+		 rdfs:label "LP 324" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva" ;
+		   :x -69.1619444444444;
+		   :y -32.6169444444444;
+		   wdt:P1343 "García 2005" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 4720 .
+:LP324 :sd 80 .
+
+
+:BETA84829 a :Fechado ;
+		 rdfs:label "BETA 84829" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva" ;
+		   :x -69.1619444444444;
+		   :y -32.6169444444444;
+		   wdt:P1343 "García 2005" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 5080 .
+:BETA84829 :sd 70 .
+
+
+:BETA90740 a :Fechado ;
+		 rdfs:label "BETA 90740" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva" ;
+		   :x -69.1619444444444;
+		   :y -32.6169444444444;
+		   wdt:P1343 "García et al. 1999" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 7450 .
+:BETA90740 :sd 140 .
+
+
+:BETA29886 a :Fechado ;
+		 rdfs:label "BETA 29886" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva" ;
+		   :x -69.1619444444444;
+		   :y -32.6169444444444;
+		   wdt:P1343 "García et al. 1999" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 8800 .
+:BETA29886 :sd 70 .
+
+
+:LP1654 a :Fechado ;
+		 rdfs:label "LP 1654" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva Sector Norte" ;
+		   wdt:P1343 "Lucero et al. 2006" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7420 .
+:LP1654 :sd 90 .
+
+
+:LP1662 a :Fechado ;
+		 rdfs:label "LP 1662" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva Sector Norte" ;
+		   wdt:P1343 "Lucero et al. 2006" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8270 .
+:LP1662 :sd 90 .
+
+
+:LP1678 a :Fechado ;
+		 rdfs:label "LP 1678" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Agua de la Cueva Sector Norte" ;
+		   wdt:P1343 "Lucero et al. 2006" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8460 .
+:LP1678 :sd 100 .
+
+
+:UZ2528_ETH5321 a :Fechado ;
+		 rdfs:label "UZ 2528/ETH 5321" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Paso de los Paramillos I" ;
+		   wdt:P1343 "Barcena 1998" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5875 .
+:UZ2528_ETH5321 :sd 70 .
+
+
+:BETA27893 a :Fechado ;
+		 rdfs:label "BETA 27893" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Paso de los Paramillos I" ;
+		   wdt:P1343 "Barcena 1998" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 6080 .
+:BETA27893 :sd 90 .
+
+
+:BETA63174 a :Fechado ;
+		 rdfs:label "BETA 63174" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Piedrón" ;
+		   :x -69.316725;
+		   :y -32.9168194444444;
+		   wdt:P1343 "Durán 1997" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 4560 .
+:BETA63174 :sd 120 .
+
+
+:BETA63175 a :Fechado ;
+		 rdfs:label "BETA 63175" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Piedrón" ;
+		   :x -69.316725;
+		   :y -32.9168194444444;
+		   wdt:P1343 "Durán 1997" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method :Unknown_Dating_Method ;
+		 :14C_age 5460 .
+:BETA63175 :sd 130 .
+
+
+:LP1799 a :Fechado ;
+		 rdfs:label "LP 1799" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Los Conitos" ;
+		   :x -69.172225;
+		   :y -32.9491888888889;
+		   wdt:P1343 "Cortegoso 2006" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3300 .
+:LP1799 :sd 80 .
+
+
+:AA85697 a :Fechado ;
+		 rdfs:label "AA 85697" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cueva Palulo" ;
+		   :x -69.8429361111111;
+		   :y -34.9444277777778;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3970 .
+:AA85697 :sd 40 .
+
+
+:AA73215 a :Fechado ;
+		 rdfs:label "AA 73215" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Mallín" ;
+		   :x -69.4978444444444;
+		   :y -34.5539388888889;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8301 .
+:AA73215 :sd 77 .
+
+
+:AA3205 a :Fechado ;
+		 rdfs:label "AA 3205" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Mallín" ;
+		   :x -69.4978444444444;
+		   :y -34.5539388888889;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8435 .
+:AA3205 :sd 46 .
+
+
+:AA73231 a :Fechado ;
+		 rdfs:label "AA 73231" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Mallín" ;
+		   :x -69.4978444444444;
+		   :y -34.5539388888889;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8886 .
+:AA73231 :sd 46 .
+
+
+:GaK6492 a :Fechado ;
+		 rdfs:label "GaK 6492" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gruta de los Potrerillos" ;
+		   :x -69.45;
+		   :y -34.5;
+		   wdt:P1343 "Gambier 1979" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3680 .
+:GaK6492 :sd 100 .
+
+
+:GrN5395 a :Fechado ;
+		 rdfs:label "GrN 5395" ;
+		   wdt:P186 :Wood ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 1968" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3830 .
+:GrN5395 :sd 40 .
+
+
+:AA58280 a :Fechado ;
+		 rdfs:label "AA 58280" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Gil et al. 2011" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3860 .
+:AA58280 :sd 60 .
+
+
+:AA59588 a :Fechado ;
+		 rdfs:label "AA 59588" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Gil et al. 2011" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3944 .
+:AA59588 :sd 46 .
+
+
+:LP873 a :Fechado ;
+		 rdfs:label "LP 873" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 2001" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7430 .
+:LP873 :sd 90 .
+
+
+:LP845 a :Fechado ;
+		 rdfs:label "LP 845" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 2001" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7860 .
+:LP845 :sd 90 .
+
+
+:GrN5394 a :Fechado ;
+		 rdfs:label "GrN 5394" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 1977" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8045 .
+:GrN5394 :sd 55 .
+
+
+:LP854 a :Fechado ;
+		 rdfs:label "LP 854" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 2001" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8920 .
+:LP854 :sd 110 .
+
+
+:LP925 a :Fechado ;
+		 rdfs:label "LP 925" ;
+		   wdt:P186 :Dung ;
+		 wdt:P9047 "Gruta del Indio" ;
+		   :x -68.3666666666667;
+		   :y -34.75;
+		   wdt:P1343 "Lagiglia 2001" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 8990 .
+:LP925 :sd 80 .
+
+
+:NSRL11721 a :Fechado ;
+		 rdfs:label "NSRL 11721" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 3570 .
+:NSRL11721 :sd 40 .
+
+
+:LP946 a :Fechado ;
+		 rdfs:label "LP 946" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3810 .
+:LP946 :sd 105 .
+
+
+:NSRL11719 a :Fechado ;
+		 rdfs:label "NSRL 11719" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4540 .
+:NSRL11719 :sd 40 .
+
+
+:LP1267 a :Fechado ;
+		 rdfs:label "LP 1267" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5310 .
+:LP1267 :sd 100 .
+
+
+:LP1279 a :Fechado ;
+		 rdfs:label "LP 1279" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 5350 .
+:LP1279 :sd 80 .
+
+
+:NSRL11722 a :Fechado ;
+		 rdfs:label "NSRL 11722" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 7660 .
+:NSRL11722 :sd 50 .
+
+
+:LP783 a :Fechado ;
+		 rdfs:label "LP 783" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 7670 .
+:LP783 :sd 105 .
+
+
+:NSRL11720 a :Fechado ;
+		 rdfs:label "NSRL 11720" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8580 .
+:NSRL11720 :sd 60 .
+
+
+:AA58292 a :Fechado ;
+		 rdfs:label "AA 58292" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8738 .
+:AA58292 :sd 50 .
+
+
+:NSRL11723 a :Fechado ;
+		 rdfs:label "NSRL 11723" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Dieguez and Neme 2003" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8870 .
+:NSRL11723 :sd 55 .
+
+
+:AA26193 a :Fechado ;
+		 rdfs:label "AA 26193" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Arroyo Malo 3" ;
+		   :x -69.8837194444444;
+		   :y -34.8552527777778;
+		   wdt:P1343 "Neme 2007" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 8900 .
+:AA26193 :sd 60 .
+
+
+:LP472 a :Fechado ;
+		 rdfs:label "LP 472" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "Cueva Arroyo Colorado" ;
+		   wdt:P1343 "Lagiglia et al. 1994" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :Conventional ;
+		 :14C_age 3190 .
+:LP472 :sd 80 .
+
+
+:AA85691 a :Fechado ;
+		 rdfs:label "AA85691" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 4326 .
+:AA85691 :sd 42 .
+
+
+:AA73226 a :Fechado ;
+		 rdfs:label "AA 73226" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5196 .
+:AA73226 :sd 38 .
+
+
+:AA73220 a :Fechado ;
+		 rdfs:label "AA 73220" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5204 .
+:AA73220 :sd 40 .
+
+
+:AA85692 a :Fechado ;
+		 rdfs:label "AA85692" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5246 .
+:AA85692 :sd 44 .
+
+
+:AA73219 a :Fechado ;
+		 rdfs:label "AA 73219" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5301 .
+:AA73219 :sd 47 .
+
+
+:AA85690 a :Fechado ;
+		 rdfs:label "AA85690" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "This paper" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5313 .
+:AA85690 :sd 44 .
+
+
+:AA73218 a :Fechado ;
+		 rdfs:label "AA 73218" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5360 .
+:AA73218 :sd 39 .
+
+
+:AA73222 a :Fechado ;
+		 rdfs:label "AA 73222" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5400 .
+:AA73222 :sd 40 .
+
+
+:AA73216 a :Fechado ;
+		 rdfs:label "AA 73216" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5518 .
+:AA73216 :sd 44 .
+
+
+:AA73217 a :Fechado ;
+		 rdfs:label "AA 73217" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5575 .
+:AA73217 :sd 40 .
+
+
+:AA73224 a :Fechado ;
+		 rdfs:label "AA 73224" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5656 .
+:AA73224 :sd 40 .
+
+
+:AA73221 a :Fechado ;
+		 rdfs:label "AA 73221" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5687 .
+:AA73221 :sd 40 .
+
+
+:AA73223 a :Fechado ;
+		 rdfs:label "AA 73223" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5694 .
+:AA73223 :sd 40 .
+
+
+:AA73225 a :Fechado ;
+		 rdfs:label "AA 73225" ;
+		   wdt:P186 :Charred_material ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 6283 .
+:AA73225 :sd 42 .
+
+
+:AA54671 a :Fechado ;
+		 rdfs:label "AA 54671" ;
+		   wdt:P186 :Bone ;
+		 wdt:P9047 "El Desecho" ;
+		   :x -70.0540472222222;
+		   :y -35.1968666666667;
+		   wdt:P1343 "Gil et al. 2008" ;
+		 :location "Mendoza, Argentina" ;
+		   wdt:P276 wd:Q44797 ;
+		   :dating_method wd:Q173412 ;
+		   :14C_type :AMS ;
+		 :14C_age 5502 .
+:AA54671 :sd 60 .
