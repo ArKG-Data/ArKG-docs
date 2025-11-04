@@ -4,8 +4,9 @@ A continuación, se indica lo que describe cada predicado utilizado:
 
 | Predicado | Descripción |
 | :------- | :------- |
-| **`rdfs:label`** | Identificador del fechado, corresponde al código del laboratorio (ej: "BETA 4514"). |
-| **`wdt:P186`** *(made from material)* | Material fechado, es decir, el tipo de muestra analizada (por ejemplo, hueso, madera, concha, etc)|
+  **`rdf:type`** | Clase o categoría a la que pertenece el recurso. |
+| **`rdfs:label`** | Etiqueta legible asociada a la URI del recurso. |
+| **`wdt:P186`** *(made from material)* | Material fechado, es decir, el tipo de muestra analizada (por ejemplo, hueso, madera, concha, etc).|
 | **`wdt:P9047`** *(archaeological site of)* | Nombre del sitio arqueológico en donde se descubrió el fechado. |
 | **`wdt:P1343`** *(described by source)* | Fuente bibliográfica o publicación donde se reporta el fechado.|
 | **`wdt:P276`** *(location)* | Lugar más específico, respecto a la ubicación del fechado, del cual se tiene registro en wikidata. |
