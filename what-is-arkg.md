@@ -44,4 +44,4 @@ Send us an email to: [contacto@uc.cl](contacto@uc.cl)
 
 ## License
 
-This work is licensed under [![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg)(https://mirrors.creativecommons.org/presskit/icons/by.svg)(https://mirrors.creativecommons.org/presskit/icons/sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[ArKG](https://arkg.cl) © 2025 by [ArKG Team](https://github.com/orgs/ArKG-Data/repositories) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) ![](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
