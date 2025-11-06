@@ -1,6 +1,6 @@
 # Archaeological Knowledge Graph (ArKG) Chile
 
-## Interdisciplinary project between Archaeology, Physics, and Computer Science that seeks to organize, systematize, visualize, and openly distribute archaeological dates from Chile.
+## Interdisciplinary project between Archaeology, Physics, and Computer Science that seeks to organize, systematize, visualize, and openly distribute archaeological dates from Chile
 
 ArKG is established by recognizing the fundamental importance of dating and dating methods in archaeology, both in Chile and worldwide. This information, beyond its archaeological application field, has its origin as a method in the physical sciences, and the study of the data allows us to understand both the past of humanity at large scales, in archaeology, as well as the recent past of physics. Furthermore, the way in which data is worked with and acquired is strongly determined by digital methods of computation, both at the instrumental level and in terms of data organization and distribution. Therefore, there is a need to conduct inter- and transdisciplinary research dedicated to the multimodal and multi-focus understanding of dating.
 
@@ -15,6 +15,7 @@ This is a fully open source project: code and data.
 ## Demo
 
 Insert gif or link to demo
+![](https://i.ibb.co/VpCw6vWW/Generated-Image-November-05-2025-11-39-PM.png)
 
 ## Funding
 
