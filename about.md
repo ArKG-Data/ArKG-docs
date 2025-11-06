@@ -1,6 +1,9 @@
+# About
+
 ## Participants
 
 ### Actual
+
 * Roberto Campbell, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
 * Paola Caprile, PhD. Instituto de Física, Pontificia Universidad Católica de Chile.
@@ -23,10 +26,8 @@
 
 * José Mendoza
 
-* Manuel Cifuentes
-
 * Matías Maldonado
 
-
 ### Past
+
 * Manuel Cifuentes
