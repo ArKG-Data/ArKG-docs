@@ -2715,3 +2715,214 @@
 		   :14C_type :AMS ;
 		 :14C_age 5502 .
 :AA54671 :sd 60 .
+
+wd:Q1567978 wdt:P131 wd:Q2178 .
+wd:Q82128 wdt:P131 wd:Q23660141 .
+wd:Q3873 wdt:P131 wd:Q2170 .
+wd:Q2170 wdt:P17 wd:Q298 .
+wd:Q16900 wdt:P131 wd:Q2176 .
+wd:Q2131 wdt:P17 wd:Q298 .
+wd:Q56132 wdt:P131 wd:Q2176 .
+wd:Q2178 wdt:P17 wd:Q298 .
+wd:Q2176 wdt:P17 wd:Q298 .
+wd:Q22472734 wdt:P131 wd:Q2178 .
+wd:Q2133 wdt:P17 wd:Q298 .
+wd:Q22451496 wdt:P131 wd:Q2178 .
+wd:Q2166 wdt:P17 wd:Q298 .
+wd:Q5018337 wdt:P131 wd:Q23660623 .
+wd:Q23659675 wdt:P131 wd:Q2170 .
+wd:Q51115 wdt:P131 wd:Q2176 .
+wd:Q1635008 wdt:P131 wd:Q23660283 .
+wd:Q1880 wdt:P131 wd:Q23659675 .
+wd:Q1800412 wdt:P131 wd:Q2176 .
+wd:Q52580697 wdt:P131 wd:Q56132 .
+wd:Q13025 wdt:P131 wd:Q2176 .
+wd:Q23660141 wdt:P131 wd:Q2176 .
+wd:Q23660240 wdt:P131 wd:Q721462 .
+wd:Q188183 wdt:P131 wd:Q201109 .
+wd:Q51059 wdt:P131 wd:Q22451496 .
+wd:Q11098528 wdt:P131 wd:Q721733 .
+wd:Q44797 wdt:P17 wd:Q414 .
+wd:Q2177 wdt:P17 wd:Q298 .
+wd:Q2121 wdt:P17 wd:Q298 .
+wd:Q219458 wdt:P17 wd:Q298 .
+wd:Q16927 wdt:P131 wd:Q2178 .
+wd:Q23660283 wdt:P131 wd:Q201109 .
+wd:Q721462 wdt:P131 wd:Q2176 .
+wd:Q44805 wdt:P17 wd:Q414 .
+wd:Q1591668 wdt:P131 wd:Q2170 .
+wd:Q51609 wdt:P131 wd:Q2178 .
+wd:Q721733 wdt:P131 wd:Q2177 .
+wd:Q23660623 wdt:P131 wd:Q721733 .
+wd:Q49076 wdt:P131 wd:Q2176 .
+wd:Q201109 wdt:P131 wd:Q2170 .
+wd:Q3608 wdt:P131 wd:Q23660240 .
+
+wd:Q51059 rdfs:label "Osorno (ciudad de Chile)" .
+wd:Q721733 rdfs:label "Valdivia (provincia de Chile)" .
+wd:Q3608 rdfs:label "Angol (ciudad de Chile)" .
+wd:Q23660283 rdfs:label "Lebu (comuna de Chile)" .
+wd:Q3873 rdfs:label "Coronel (comuna de Chile)" .
+wd:Q51115 rdfs:label "Pitrufquén (comuna de Chile)" .
+wd:Q1591668 rdfs:label "Isla Santa María (isla)" .
+wd:Q82128 rdfs:label "Temuco (ciudad de Chile)" .
+wd:Q1635008 rdfs:label "Isla Mocha (isla)" .
+wd:Q49076 rdfs:label "Melipeuco (comuna de Chile)" .
+wd:Q16927 rdfs:label "Maullín (villa)" .
+wd:Q51609 rdfs:label "Quemchi (comuna de Chile)" .
+wd:Q219458 rdfs:label "región de Valparaíso (región de Chile)" .
+wd:Q1800412 rdfs:label "Lago Villarrica (lago)" .
+wd:Q2176 rdfs:label "Región de La Araucanía (región de Chile)" .
+wd:Q2121 rdfs:label "Región de Coquimbo (región de Chile)" .
+wd:Q44797 rdfs:label "Provincia de Mendoza (provincia de Argentina)" .
+wd:Q56132 rdfs:label "Saavedra (comuna de Chile)" .
+wd:Q23660141 rdfs:label "Temuco (comuna de Chile)" .
+wd:Q16900 rdfs:label "Loncoche (comuna de Chile)" .
+wd:Q23660240 rdfs:label "Angol (comuna de Chile)" .
+wd:Q5018337 rdfs:label "Calafquén (caserío de Chile)" .
+wd:Q11098528 rdfs:label "Chan-Chan (yacimiento arqueológico)" .
+wd:Q1880 rdfs:label "Concepción (ciudad de Chile)" .
+wd:Q13025 rdfs:label "Curarrehue (comuna de Chile)" .
+wd:Q201109 rdfs:label "Arauco (provincia de Chile)" .
+wd:Q188183 rdfs:label "Tirúa (comuna de Chile)" .
+wd:Q1567978 rdfs:label "Lago Chapo (lago)" .
+wd:Q2131 rdfs:label "Región Metropolitana de Santiago (región de Chile)" .
+wd:Q2170 rdfs:label "Región del Biobío (región de Chile)" .
+wd:Q44805 rdfs:label "Provincia de San Juan (provincia de Argentina)" .
+wd:Q52580697 rdfs:label "Puerto Saavedra (pueblo de Chile)" .
+wd:Q23660623 rdfs:label "Panguipulli (comuna de Chile)" .
+wd:Q2178 rdfs:label "Región de Los Lagos (región de Chile)" .
+wd:Q22472734 rdfs:label "Cerro Trinidad (montaña)" .
+wd:Q22451496 rdfs:label "Osorno (comuna de Chile)" .
+wd:Q2177 rdfs:label "Región de Los Ríos (región de Chile)" .
+wd:Q23659675 rdfs:label "Concepción (comuna de Chile)" .
+wd:Q2166 rdfs:label "Región del Maule (región de Chile)" .
+wd:Q2133 rdfs:label "Región de O'Higgins (región de Chile)" .
+wd:Q721462 rdfs:label "Malleco (provincia de Chile)" .
+
+wd:Q173412 rdfs:label "Radiocarbon dating" .
+wd:Q2666561 rdfs:label "Seno de Reloncaví" .
+wd:Q298 rdfs:label "Chile" .
+wd:Q414 rdfs:label "Argentina" .
+wd:Q2727388 rdfs:label "Thermoluminescence dating" .
+wd:Q5882429 rdfs:label "Golfo de Arauco" .
+wd:Q1712013 rdfs:label "Central hidroeléctrica Ralco" .
+
+:Charcoal rdfs:label "Charcoal" .
+:Fechado rdfs:label "Fechado" .
+:Conventional rdfs:label "Conventional" .
+:Charred_material rdfs:label "Charred material" .
+:AMS rdfs:label "AMS" .
+:Shell rdfs:label "Shell" .
+:Dung rdfs:label "Dung" .
+:Bone rdfs:label "Bone" .
+:Mastodon_colagen rdfs:label "Mastodon colagen" .
+:Wood rdfs:label "Wood" .
+:Luma_artifact rdfs:label "Luma artifact" .
+:Mastodon rdfs:label "Mastodon" .
+:Temu_sp_artifact rdfs:label "Temu sp. artifact" .
+:Carbonized rdfs:label "Carbonized" .
+:Podocarpus_sp_artifact rdfs:label "Podocarpus sp. artifact" .
+:Charred rdfs:label "Charred" .
+:Tooth rdfs:label "Tooth" .
+:No_data rdfs:label "No data" .
+:Unknown_Dating_Method rdfs:label "Unknown Dating Method" .
+:Heated_rock rdfs:label "Heated rock" .
+:Sediment rdfs:label "Sediment" .
+:Charred_seeds rdfs:label "Charred seeds" .
+:Pigment_organic_material rdfs:label "Pigment organic material" .
+:Human_sinew rdfs:label "Human sinew" .
+:Carbonized_Nothofagus_sp rdfs:label "Carbonized Nothofagus sp." .
+:Charred_Nothofagus_sp rdfs:label "Charred Nothofagus sp." .
+:Burned_luma_artifact rdfs:label "Burned luma artifact" .
+:Mastodon_aminoacids rdfs:label "Mastodon aminoacids" .
+:Burned rdfs:label "Burned" .
+:Seaweed rdfs:label "Seaweed" .
+:Mazzaella_sp rdfs:label "Mazzaella sp." .
+:Gigartina_sp rdfs:label "Gigartina sp." .
+:Coigüe_artifact rdfs:label "Coigüe artifact" .
+:Coprolite rdfs:label "Coprolite" .
+:Human rdfs:label "Human" .
+:Fissurella_crassa rdfs:label "Fissurella crassa" .
+:Concholepas_concholepas rdfs:label "Concholepas concholepas" .
+:Fissurella_sp rdfs:label "Fissurella sp." .
+:Ceramics rdfs:label "Ceramics" .
+:Human_teeth rdfs:label "Human teeth" .
+:Chloephaga_sp rdfs:label "Chloephaga sp." .
+:Organic_Sediment rdfs:label "Organic Sediment" .
+:Gallus_gallus rdfs:label "Gallus gallus" .
+:Seed rdfs:label "Seed" .
+:Chenopodium_quinoa rdfs:label "Chenopodium quinoa" .
+:Eucryphia_cordifolia rdfs:label "Eucryphia cordifolia" .
+:Zea_mays rdfs:label "Zea mays" .
+:Laurelia_sempervirens rdfs:label "Laurelia sempervirens" .
+:Mastodon_gelatin rdfs:label "Mastodon gelatin" .
+
+:sd rdfs:label "Standard deviation" .
+:x rdfs:label "X Coordinate" .
+:y rdfs:label "Y Coordinate" .
+wdt:P1343 rdfs:label "Described by source" .
+wdt:P186 rdfs:label "Made of material" .
+wdt:P276 rdfs:label "Location" .
+wdt:P9047 rdfs:label "Archaeological site of" .
+:dating_method rdfs:label "Dating method" .
+:14C_type rdfs:label "14C type" .
+:location rdfs:label "Location" .
+:14C_age rdfs:label "14C age" .
+:delta13C rdfs:label "Delta 13C" .
+wdt:P131 rdfs:label "Is located in" .
+wdt:P17 rdfs:label "Country" .
+
+wd:Q2170 a :GeographicalEntity .
+wd:Q1591668 a :GeographicalEntity .
+wd:Q13025 a :GeographicalEntity .
+wd:Q51115 a :GeographicalEntity .
+wd:Q1800412 a :GeographicalEntity .
+wd:Q22472734 a :GeographicalEntity .
+wd:Q1567978 a :GeographicalEntity .
+wd:Q2178 a :GeographicalEntity .
+wd:Q2178 a :GeographicalEntity .
+wd:Q3873 a :GeographicalEntity .
+wd:Q52580697 a :GeographicalEntity .
+wd:Q23660240 a :GeographicalEntity .
+wd:Q16900 a :GeographicalEntity .
+wd:Q49076 a :GeographicalEntity .
+wd:Q188183 a :GeographicalEntity .
+wd:Q11098528 a :GeographicalEntity .
+wd:Q82128 a :GeographicalEntity .
+wd:Q51059 a :GeographicalEntity .
+wd:Q5018337 a :GeographicalEntity .
+wd:Q1880 a :GeographicalEntity .
+wd:Q1635008 a :GeographicalEntity .
+wd:Q51609 a :GeographicalEntity .
+wd:Q3608 a :GeographicalEntity .
+wd:Q16927 a :GeographicalEntity .
+wd:Q2170 a :GeographicalEntity .
+wd:Q2176 a :GeographicalEntity .
+wd:Q2177 a :GeographicalEntity .
+wd:Q2178 a :GeographicalEntity .
+wd:Q2170 a :GeographicalEntity .
+wd:Q56132 a :GeographicalEntity .
+wd:Q721462 a :GeographicalEntity .
+wd:Q2176 a :GeographicalEntity .
+wd:Q201109 a :GeographicalEntity .
+wd:Q721733 a :GeographicalEntity .
+wd:Q23660141 a :GeographicalEntity .
+wd:Q22451496 a :GeographicalEntity .
+wd:Q23660623 a :GeographicalEntity .
+wd:Q23659675 a :GeographicalEntity .
+wd:Q23660283 a :GeographicalEntity .
+wd:Q2178 a :GeographicalEntity .
+wd:Q2121 a :GeographicalEntity .
+wd:Q2131 a :GeographicalEntity .
+wd:Q2133 a :GeographicalEntity .
+wd:Q2166 a :GeographicalEntity .
+wd:Q2170 a :GeographicalEntity .
+wd:Q2176 a :GeographicalEntity .
+wd:Q2177 a :GeographicalEntity .
+wd:Q2178 a :GeographicalEntity .
+wd:Q219458 a :GeographicalEntity .
+wd:Q44797 a :GeographicalEntity .
+wd:Q44805 a :GeographicalEntity .
+wd:Q298 a :GeographicalEntity .
+wd:Q414 a :GeographicalEntity .
