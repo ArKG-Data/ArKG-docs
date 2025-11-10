@@ -1,4 +1,4 @@
-# Archaeological Knowledge Graph (ArKG) Chile
+# Archaeology Knowledge Graph (ArKG) Chile
 
 ## Interdisciplinary project between Archaeology, Physics, and Computer Science that seeks to organize, systematize, visualize, and openly distribute archaeological dates from Chile
 
