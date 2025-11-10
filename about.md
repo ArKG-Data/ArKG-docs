@@ -18,16 +18,16 @@
 
 * Víctor Méndez, Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-* Andrés Kutulas
+* Andrés Kutulas, Arqueólogo.
 
-* Matías Bravo
+* Matías Bravo, estudiante. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
-* Matías Leiva
+* Matías Leiva, Arqueólogo.
 
-* José Mendoza
+* José Mendoza, estudiante. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
-* Matías Maldonado
+* Matías Maldonado, estudiante. Instituto de Física, Pontificia Universidad Católica de Chile.
 
 ### Past
 
-* Manuel Cifuentes
+* Manuel Cifuentes, Ingeniero
