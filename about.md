@@ -15,25 +15,25 @@ Below is a list of current and past participants, along with further references 
 * Francisca Moya, PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Víctor Méndez, Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Andrés Kutulas, Arqueólogo.
-* Matías Bravo, estudiante. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Matías Bravo, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Matías Leiva, Arqueólogo.
 
 ### From Physics
 
 * Paola Caprile, PhD. Instituto de Física, Pontificia Universidad Católica de Chile.
-* Matías Maldonado, estudiante. Instituto de Física, Pontificia Universidad Católica de Chile.
+* Matías Maldonado, student. Instituto de Física, Pontificia Universidad Católica de Chile.
 
 ### From Computer Science
 
 * Marcelo Arenas, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
-* José Mendoza, estudiante. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* José Mendoza, student. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 * Cristián Riveros, PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
 ## Past participants
 
 We thank the following participants for their contributions in an early stage of the project.
 
-* Manuel Cifuentes, estudiante. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* Manuel Cifuentes, student. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
 ## Acknowledgements
 

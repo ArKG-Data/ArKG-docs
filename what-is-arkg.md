@@ -12,12 +12,6 @@ We consider archaeological dates as digital heritage (Ministerio de las Culturas
 
 This is a fully open source project: code and data.
 
-<!---
-## Demo
-Insert gif or link to demo
-![](https://i.ibb.co/VpCw6vWW/Generated-Image-November-05-2025-11-39-PM.png)
--->
-
 ## Contributing
 
 Contributions are always welcome!
