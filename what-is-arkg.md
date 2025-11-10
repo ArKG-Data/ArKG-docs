@@ -19,7 +19,7 @@ Insert gif or link to demo
 
 ## Funding
 
-The ArKG Chile Project has been funded by the Concurso de Investigación Interdisciplinaria Convocatoria 2024 by Dirección de Investigación de la Pontificia Universidad Católica de Chile, Research Project INTERDISCIPLINA II202421 _"Arqueología y datos: nuevas formas de pensar y crear patrimonio"_.
+The ArKG Chile Project has been funded by the Concurso de Investigación Interdisciplinaria Convocatoria 2024 by Vicerrectoría de Investigación de la Pontificia Universidad Católica de Chile, Research Project INTERDISCIPLINA II202421 _"Arqueología y datos: nuevas formas de pensar y crear patrimonio"_.
 
 ## Acknowledgements
 
