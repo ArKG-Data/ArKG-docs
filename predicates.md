@@ -18,7 +18,7 @@ The following table describes each predicate used:
 | **`:dating_method`** | Dating method used, can be **wd:Q173412** (radiocarbon dating), **wd:Q2727388** (thermoluminescence dating), or unknown.|
 | **`:location`** | Text description of the location of the archaeological date.|
 | **`:x`** , **`:y`** | Geographic coordinates of the site in decimal degrees (longitude and latitude, respectively).|
-| **`:sd`** | Standard deviationa associated with the radiocarbon measurement.|
+| **`:sd`** | Standard deviation associated with the radiocarbon measurement.|
 | **`:delta13C`** | Measure of the proportion of stable carbon isotopes.|
 | **`:material_einfo`** | Additional information about the type of sample analyzed.|
 
