@@ -6,7 +6,7 @@ To contribute and join the team, please get in touch with us at [roberto.campbel
 
 Below is a list of current and past participants, along with further references on the project. 
 
-## Actual participants
+## Current participants
 
 ### From Archeology
 
