@@ -1,6 +1,14 @@
-# Predicates
+# ArKG data documentation
 
-The following table describes each predicate used:
+On this site, you can download the latest version of the ArKG dataset and find some preliminary documentation (under development). At the bottom, you can find and download the different versions of the dataset. Next, we briefly present some technical details of the graph representation. 
+
+The ArKG knowledge graph is modeled as an RDF graph, a format for describing graph data. Data is stored as triples:
+
+> (subject, predicate, object)
+
+where *subject* and *object* are nodes in the graph data, and *predicate* is a label that gives a meaning to the connection between both. In ArKG, each date data item is a node, connected to other data items (such as locations, dates, materials, etc.) through triples. Therefore, the predicates state the *type* of the connection between different data items. 
+
+The following table describes each predicate currently supported/used in ArKG: 
 
 | Predicate | Description |
 | :------- | :------- |
