@@ -8,17 +8,28 @@ The ArKG knowledge graph is modeled as an RDF graph, a format for describing gra
 
 where *subject* and *object* are nodes in the graph data, and *predicate* is a label that gives a meaning to the connection between both. In ArKG, each date data item is a node, connected to other data items (such as locations, dates, materials, etc.) through triples. Therefore, the predicates state the *type* of the connection between different data items. 
 
+The following namespaces and prefixes are used in ArKG:
+| Prefix | Namespace URI | Description |
+| :------- | :------- | :------- |
+| **`rdf:`** | <http://www.w3.org/1999/02/22-rdf-syntax-ns#> | RDF syntax vocabulary. |
+| **`rdfs:`** | <http://www.w3.org/2000/01/rdf-schema#> | RDF Schema vocabulary. |
+| **`wd:`** | <http://www.wikidata.org/entity/> | Wikidata entities. |
+| **`wdt:`** | <http://www.wikidata.org/prop/direct/> | Wikidata direct properties. |
+| **`:`** | <https://arkg.cl/> | ArKG custom vocabulary. |
+
 The following table describes each predicate currently supported/used in ArKG: 
 
 | Predicate | Description |
 | :------- | :------- |
-  **`rdf:type`** | Class or category to which the resource belongs. |
+| **`rdf:type`** | Class or category to which the resource belongs. |
 | **`rdfs:label`** | Readable label associated with the resource's URI. |
 | **`wdt:P186`** *(made from material)* | The type of sample analyzed (e.g, bone, wood, shell,etc.)|
 | **`wdt:P9047`** *(archaeological site of)* | Name of the archaeological site where the archaeological date was discovered. |
 | **`wdt:P1343`** *(described by source)* | Bibliographic source or publication where the archaeological date is reported.|
 | **`wdt:P276`** *(location)* | More specific place regarding the archaeological date's location, of which there is a record in Wikidata.  |
 | **`wdt:P585`** *(point in time)* | Date when the analysis of the archaeological date was performed.|
+| **`wdt:P131`** *(is located in)* | The item is located on the territory of the following administrative entity.|
+| **`wdt:P17`** *(country)* | Sovereign state that this item is in.|
 | **`:14C_age`** | Radiocarbon age of the archaeological date.|
 | **`:14C_age_einfo`** | Additional information about the radiocarbon age.|
 | **`:14C_type`** | Type of radiocarbon measurement, can be "Conventional" or "AMS".|
