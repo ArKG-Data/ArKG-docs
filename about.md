@@ -15,8 +15,8 @@ Below is a list of current and past participants, along with further references 
 * [Francisca Moya](https://antropologia.uc.cl/la-escuela/academicos/francisca-moya/), PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * [Víctor Méndez](https://www.researchgate.net/profile/Victor-Mendez), Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Andrés Kutulas, Arqueólogo.
-* Matías Bravo, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * Matías Leiva, Arqueólogo.
+* Matías Bravo, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
 ### From Physics
 
