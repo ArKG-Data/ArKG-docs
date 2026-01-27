@@ -26,19 +26,17 @@ The following table describes each predicate currently supported/used in ArKG:
 | **`wdt:P186`** *(made from material)* | The type of sample analyzed (e.g, bone, wood, shell,etc.)|
 | **`wdt:P9047`** *(archaeological site of)* | Name of the archaeological site where the archaeological date was discovered. |
 | **`wdt:P1343`** *(described by source)* | Bibliographic source or publication where the archaeological date is reported.|
-| **`wdt:P276`** *(location)* | More specific place regarding the archaeological date's location, of which there is a record in Wikidata.  |
 | **`wdt:P585`** *(point in time)* | Date when the analysis of the archaeological date was performed.|
 | **`wdt:P131`** *(is located in)* | The item is located on the territory of the following administrative entity.|
 | **`wdt:P17`** *(country)* | Sovereign state that this item is in.|
 | **`:14C_age`** | Radiocarbon age of the archaeological date.|
-| **`:14C_age_einfo`** | Additional information about the radiocarbon age.|
 | **`:14C_type`** | Type of radiocarbon measurement, can be "Conventional" or "AMS".|
 | **`:TL_Age_AC_DC`** | Age obtained through **Thermoluminescence** (**TL**), expressed in BC/AD years.|
 | **`:dating_method`** | Dating method used, can be **wd:Q173412** (radiocarbon dating), **wd:Q2727388** (thermoluminescence dating), or unknown.|
-| **`:location`** | Text description of the location of the archaeological date.|
 | **`:x`** , **`:y`** | Geographic coordinates of the site in decimal degrees (longitude and latitude, respectively).|
 | **`:sd`** | Standard deviation associated with the radiocarbon measurement.|
 | **`:delta13C`** | Measure of the proportion of stable carbon isotopes.|
-| **`:material_einfo`** | Additional information about the type of sample analyzed.|
+| **`:sample_type_info`** | Information about the type of sample analyzed.|
+| **`:age_einfo`** | Additional information about the archaeological age.|
 
 
