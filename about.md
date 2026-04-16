@@ -14,9 +14,7 @@ Below is a list of current and past participants, along with further references 
 * [Francisca Santana](https://antropologia.uc.cl/la-escuela/academicos/francisca-santana-sagredo/), PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * [Francisca Moya](https://antropologia.uc.cl/la-escuela/academicos/francisca-moya/), PhD. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 * [Víctor Méndez](https://www.researchgate.net/profile/Victor-Mendez), Mg. Laboratorio de Arqueología Digital, Escuela de Antropología, Pontificia Universidad Católica de Chile.
-* Andrés Kutulas, Arqueólogo.
-* Matías Leiva, Arqueólogo.
-* Matías Bravo, student. Escuela de Antropología, Pontificia Universidad Católica de Chile.
+* Matías Bravo, Arqueólogo. Escuela de Antropología, Pontificia Universidad Católica de Chile.
 
 ### From Physics
 
@@ -34,6 +32,8 @@ Below is a list of current and past participants, along with further references 
 We thank the following participants for their contributions in an early stage of the project.
 
 * Manuel Cifuentes, student. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* Andrés Kutulas, Arqueólogo.
+* Matías Leiva, Arqueólogo.
 
 ## Acknowledgements
 
