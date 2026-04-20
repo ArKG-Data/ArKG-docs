@@ -18,7 +18,7 @@ This is a fully open source project: code and data.
 
 **BibTeX:**
 ```bibtex
-@software{campbell2025arkg_zenodo,
+@software{campbell2026arkg_zenodo,
   author    = {Campbell, Roberto and Méndez, Víctor and Arenas, Marcelo 
                and Riveros, Cristián and Caprile, Paola 
                and {Santana Sagredo}, Francisca and Moya, Francisca 
