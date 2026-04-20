@@ -14,7 +14,7 @@ This is a fully open source project: code and data.
 ## How to Cite
 
 **APA 7:**
-> Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2025). *ArKG Chile* (v0.0.1) [Software/Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19672717
+> Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2026). *ArKG Chile* (v0.0.1) [Software/Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19672717
 
 **BibTeX:**
 ```bibtex
@@ -26,7 +26,7 @@ This is a fully open source project: code and data.
                and Maldonado, Matías and Cifuentes, Manuel 
                and Mendoza, José and Bravo, Matías},
   title     = {{ArKG Chile}},
-  year      = {2025},
+  year      = {2026},
   version   = {0.0.1},
   publisher = {Zenodo},
   doi       = {10.5281/zenodo.19672717},
