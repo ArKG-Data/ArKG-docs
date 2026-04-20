@@ -11,6 +11,29 @@ We consider archaeological dates as digital heritage (Ministerio de las Culturas
 
 This is a fully open source project: code and data.
 
+## How to Cite
+
+**APA 7:**
+> Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2025). *ArKG Chile* (v0.0.1) [Software/Dataset]. Zenodo. https://doi.org/10.5281/zenodo.19672717
+
+**BibTeX:**
+```bibtex
+@software{campbell2025arkg_zenodo,
+  author    = {Campbell, Roberto and Méndez, Víctor and Arenas, Marcelo 
+               and Riveros, Cristián and Caprile, Paola 
+               and {Santana Sagredo}, Francisca and Moya, Francisca 
+               and Kutulas, Andrés and Leiva, Matías 
+               and Maldonado, Matías and Cifuentes, Manuel 
+               and Mendoza, José and Bravo, Matías},
+  title     = {{ArKG Chile}},
+  year      = {2025},
+  version   = {0.0.1},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.19672717},
+  url       = {https://doi.org/10.5281/zenodo.19672717},
+}
+```
+
 ## Contributing
 
 Contributions are always welcome! To contribute and join the team, please get in touch with us at [roberto.campbell@uc.cl](roberto.campbell@uc.cl).
