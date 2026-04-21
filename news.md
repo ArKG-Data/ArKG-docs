@@ -7,6 +7,8 @@
 **APA 7:**
 > Campbell, R., Méndez, V., Arenas, M., Riveros, C., Caprile, P., Santana Sagredo, F., Moya, F., Kutulas, A., Leiva, M., Maldonado, M., Cifuentes, M., Mendoza, J., y Bravo, M. (2025). ArKG Chile: Hacia una base de datos unificada para fechados (y otros datos). Ponencia presentada en el V Taller de Arqueología e Isótopos en el Sur de Sudamérica, Coyhaique, Chile.
 
+[Download presentation (PDF) →](https://github.com/ArKG-Data/ArKG-docs/raw/main/Campbell%20et%20al%202026.pdf)
+
 **BibTeX:**
 ```bibtex
 @unpublished{campbell2025arkg,
