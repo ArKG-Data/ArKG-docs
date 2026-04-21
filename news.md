@@ -10,8 +10,8 @@ ArKG was presented at the **V Taller de Arqueología e Isótopos en el Sur de Su
 ---
 
 ## ArKG on Instagram
-*ArKG Reel — Instagram*
+*[@antropologia_uc](https://www.instagram.com/antropologia_uc/) — Instagram Reel*
 
-A short video feature on ArKG, published on the project's Instagram.
+Prof. Roberto Campbell (Escuela de Antropología UC) presents ArKG: an interdisciplinary project combining Archaeology, Computer Science, and Physics. Radiocarbon and thermoluminescence dates are fundamental to archaeological knowledge about past societies, yet this information is not adequately preserved, organised, or accessible. ArKG aims to build a system that addresses these problems for Chilean archaeology — and beyond. The initiative brings together researchers from Escuela de Antropología UC, Departamento de Física UC, Instituto Milenio Fundamentos de los Datos, and Licenciatura en Ciencia de la Computación UC.
 
 [Watch the reel →](https://www.instagram.com/reel/DRxbHvIgSr6/)
