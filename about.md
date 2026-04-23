@@ -19,11 +19,11 @@ Below is a list of current and past participants, along with further references 
 ### From Physics
 
 * [Paola Caprile](https://www.researchgate.net/profile/Paola-Caprile), PhD. Instituto de Física, Pontificia Universidad Católica de Chile.
-* Matías Maldonado, student. Instituto de Física, Pontificia Universidad Católica de Chile.
 
 ### From Computer Science
 
 * [Marcelo Arenas](https://marceloarenas.cl/), PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
+* Matías Maldonado, student. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 * José Mendoza, student. Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 * [Cristián Riveros](https://scholar.google.com/citations?user=wkDO2HIAAAAJ&hl=en), PhD. IMFD, Departamento de Ciencia de la Computación, Pontificia Universidad Católica de Chile.
 
